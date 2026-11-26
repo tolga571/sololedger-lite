@@ -2,6 +2,8 @@
 
 **[Open Live Calculator Demo](https://tolga571.github.io/sololedger-lite/)** · **[Get SoloLedger Pro ($2.40 w/ code `SOLO40`)](https://jumpertheme.gumroad.com/l/sololedger-pro/SOLO40)**
 
+![SoloLedger Pro Preview](assets/preview.png)
+
 A zero-dependency single-file HTML hourly rate & tax-buffer calculator for independent developers, designers, and consultants.
 
 ## Upgrade to SoloLedger Pro ($4 — or $2.40 with code `SOLO40`)
