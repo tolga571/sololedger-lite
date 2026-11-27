@@ -1,6 +1,6 @@
 # SoloLedger Lite — Local-First Freelancer Rate Calculator (MIT)
 
-**[Open Live Calculator Demo](https://tolga571.github.io/sololedger-lite/)** · **[Get SoloLedger Pro ($2.40 w/ code `SOLO40`)](https://jumpertheme.gumroad.com/l/sololedger-pro/SOLO40)**
+**[Open Live Calculator Demo](https://tolga571.github.io/sololedger-lite/)** · **[Get SoloLedger Pro ($1.60 w/ code `FIRST10`)](https://jumpertheme.gumroad.com/l/sololedger-pro/FIRST10)**
 
 ![SoloLedger Pro Preview](assets/preview.png)
 
